@@ -1,0 +1,22 @@
+#tabla {
+    padding-top:30px;
+    padding-left:45px;
+    column-width: 70px margin-top: auto;
+    
+    column-rule-color: aqua;
+    row-gap: rgb(132, 131, 192);
+    grid-template-rows: repeat(3);
+    
+
+
+}
+th{
+    border: 0.5px solid rgb(119, 118, 118);
+}
+td {
+    padding-inline: 100px;
+    border: 0.5px solid rgb(119, 118, 118);
+}
+.a td {
+    background: #eee;
+}
